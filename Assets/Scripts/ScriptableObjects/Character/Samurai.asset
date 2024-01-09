@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df2eeb816cd35d40b77aaabda6bea6a, type: 3}
+  m_Name: Samurai
+  m_EditorClassIdentifier: 
+  charaImage: {fileID: -1305832101, guid: 0dcbd278835182c4f9067ea49a8f5c6a, type: 3}
+  charaName: Samurai
+  charaAtk: 3
+  charaHP: 6
+  charaDef: 6
+  charaRarity: 2
